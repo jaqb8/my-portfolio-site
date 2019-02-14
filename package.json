@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jaqb8/my-portfolio-site#readme",
   "dependencies": {
+    "http-server": "^0.11.1",
     "node-sass": "^4.11.0"
   }
 }
